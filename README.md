@@ -20,6 +20,7 @@ This project focuses on building a predictive model to predict house prices in B
   - [Combining Training and Validation Data](#combining-training-and-validation-data)
   - [Test Set Evaluation](#test-set-evaluation)
   - [Storing the Model](#storing-the-model)
+  - [Link to the Model on Kaggle](#link-to-the-model-on-kaggle)
 - [Future Improvements](#future-improvements)
 - [Status](#status)
 - [Contributing to the project](#contributing-to-the-project)
@@ -167,6 +168,8 @@ An exhaustive list can be found in the requirements.txt file included in this pr
   joblib.dump(final_model, 'bengalaru_model.joblib')
   print("Model stored successfully!")
   ```
+- ### **Link to the Model on Kaggle**
+  [Pauline's Bengaluru House Prediction](https://www.kaggle.com/models/beepauline/paulines-bengaluru-house-prediction)
 
 > ## Future Improvements
 To enhance the accessibility and impact of this model, several deployment strategies could be explored in the future:
