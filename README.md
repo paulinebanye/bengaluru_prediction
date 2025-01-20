@@ -81,7 +81,7 @@ After the installation of the Python program, setup the project environment with
 (pred) jupyter lab
 ```
 
-Once the conda environment is active, the next step is the installation of all the dependencies needed for this project. The dependencies can be installed using the `pip install` command.
+Once the conda environment is active, the next step is the installation of all the dependencies needed for this project.
 
 \*Note:
 
@@ -93,9 +93,9 @@ A few of the dependencies are listed below.
 | <b><u>Modules</u></b>     | <b><u>Usage</u></b>           |
 | :------------------------ | :---------------------------- |
 | **`pandas`** | Data manipulation and analysis. |
-| **`numpy`** | Scientific computing with Python. |
 | **`seaborn`** | Data visualization library. |
-| **`sklearn metrics`** | Evaluating model performance. |
+| **`sckit learn`** | Evaluating model performance. |
+| **`rapidfuzz`** | Fuzzy string matching. |
 
 An exhaustive list can be found in the requirements.txt file included in this project. The modules can be 'batch installed' using the `pip install -r requirements.txt` command.
 
