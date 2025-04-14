@@ -1,7 +1,10 @@
 # **Predicting Property Prices in Bengaluru**
-This project focuses on building a predictive model to predict house prices in Bengaluru, India by preparing the dataset, performing exploratory data analysis, and applying advanced machine learning techniques. Through data cleaning, outlier removal, and feature engineering, the dataset was optimized for accurate predictions. Various models were tested, and hyperparameter tuning was used to select the best-performing one. The final model is ready for deployment to provide reliable price estimates, assisting buyers, sellers, and real estate professionals in making informed decisions. 
-
-<div style="text-align: center"><img src="imgs/villas-project.jpg" alt="house" width="80%" height="50%"></div>
+<div style="margin: auto; width: 80%; align: center">
+  <p style="text-align: justify;">
+    This project focuses on building a predictive model to predict house prices in Bengaluru, India by preparing the dataset, performing exploratory data analysis, and applying advanced machine learning techniques. Through data cleaning, outlier removal, and feature engineering, the dataset was optimized for accurate predictions. Various models were tested, and hyperparameter tuning was used to select the best-performing one. The final model is ready for deployment to provide reliable price estimates, assisting buyers, sellers, and real estate professionals in making informed decisions.
+  </p>
+  <img style="display: block; margin-left: auto; margin-right: auto; width: 100%; text-align: center; height: auto; margin: auto; max-width: 600px; max-height: 400px;" src="./imgs/villas-project.jpg" alt="Bengaluru House Prediction">
+</div>
 
 ---
 
